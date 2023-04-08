@@ -1,0 +1,23 @@
+quiz = [    {        "question": "National flag of india has how many color?",        "options": ["a) 4", "b) 3", "c) 5", "d) 6"],
+    "answer": "a"
+},
+{
+    "question": "National bird  of india ?",
+    "options": ["a) Peacocke", "b) Crow", "c) Swan", "d) woodpecker"],
+    "answer": "a"
+}
+]
+
+}
+quiz = [    {        "question": "What is the capital of France?",        "options": ["a) Berlin", "b) Madrid", "c) Paris", "d) London"],
+    "answer": "c"
+},
+{
+    "question": "Which is the largest planet in our solar system?",
+    "options": ["a) Earth", "b) Jupiter", "c) Saturn", "d) Mars"],
+    "answer": "b"
+}
+]
+
+</body>
+</html>
